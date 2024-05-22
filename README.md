@@ -1,4 +1,4 @@
-# DOM Project 1
+# DOM Project 1 [Hosted Link](https://jessicadollz.github.io/DOM-Project1/)
 
 This repository contains code for the assignment task provided. The task involves styling a `<div>` element dynamically using JavaScript and providing clear instructions on how to view the hosted version of the project.
 
