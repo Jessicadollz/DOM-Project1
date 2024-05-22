@@ -20,7 +20,7 @@ Additionally, the README should include instructions on how to view the hosted v
 ## Project Structure
 
 - `index.html`: HTML file containing the `<div>` element and JavaScript code.
-- `Dom-Assignment1.js`: External JavaScript file (optional).
+- `script.js`: External JavaScript file (optional).
 - `README.md`: Markdown file containing instructions and information about the project.
 
 ## Viewing the Hosted Version
